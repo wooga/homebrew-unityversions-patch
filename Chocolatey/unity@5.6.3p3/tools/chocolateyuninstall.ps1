@@ -1,6 +1,6 @@
 ﻿$ErrorActionPreference = 'Stop';
 
-$packageName = 'unity@5.6.3p3'
+$packageName = 'unity.5.6.3p3'
 $softwareName = 'Unity'
 $installerType = 'EXE' 
 $silentArgs = '/S'

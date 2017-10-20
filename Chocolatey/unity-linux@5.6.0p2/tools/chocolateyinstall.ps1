@@ -1,6 +1,6 @@
 ﻿$ErrorActionPreference = 'Stop';
 
-$packageName    = 'unity-linux@5.6.0p2'
+$packageName    = 'unity-linux.5.6.0p2'
 $toolsDir       = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $url64          = 'http://beta.unity3d.com/download/bbd5ca01a0ea/TargetSupportInstaller/UnitySetup-Linux-Support-for-Editor-5.6.0p2.exe'
 $checksum64     = '3bdd4a38a4c9d8089657b3dd878279cde9ec97c7fce8f1db83b683c70592539d'

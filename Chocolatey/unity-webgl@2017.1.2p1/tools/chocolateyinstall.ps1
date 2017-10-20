@@ -1,6 +1,6 @@
 ﻿$ErrorActionPreference = 'Stop';
 
-$packageName    = 'unity-webgl@2017.1.2p1'
+$packageName    = 'unity-webgl.2017.1.2p1'
 $toolsDir       = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $url64          = 'http://beta.unity3d.com/download/c2ed782bb21e/TargetSupportInstaller/UnitySetup-WebGL-Support-for-Editor-2017.1.2p1.exe'
 $checksum64     = '3224c68dbd3f5757ef0722d222996bc8ee1cae869c8acf29c0623401305e9e63'

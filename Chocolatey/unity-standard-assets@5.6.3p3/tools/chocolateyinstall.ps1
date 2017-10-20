@@ -1,6 +1,6 @@
 ﻿$ErrorActionPreference = 'Stop';
 
-$packageName    = 'unity-standard-assets@5.6.3p3'
+$packageName    = 'unity-standard-assets.5.6.3p3'
 $toolsDir       = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $url64          = 'http://beta.unity3d.com/download/88d4ddf6344a/WindowsStandardAssetsInstaller/UnityStandardAssetsSetup-5.6.3p3.exe'
 $checksum64     = 'ba378ebd235760a6316e3792d4b85327db749831b3b772da706d22d719c6cd4e'
