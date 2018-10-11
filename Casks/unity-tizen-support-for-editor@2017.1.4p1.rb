@@ -31,5 +31,5 @@ cask 'unity-tizen-support-for-editor@2017.1.4p1' do
   end
 
   uninstall quit:    'com.unity3d.UnityEditor5.x',
-            delete:  '/Applications/Unity-2017.1.4p1'
+            delete:  '/Applications/Unity-2017.1.4p1/PlaybackEngines/TizenPlayer'
 end

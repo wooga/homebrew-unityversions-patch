@@ -31,5 +31,5 @@ cask 'unity-standardassets@5.6.3p3' do
   end
 
   uninstall quit:    'com.unity3d.UnityEditor5.x',
-            delete:  '/Applications/Unity-5.6.3p3'
+            delete:  '/Applications/Unity-5.6.3p3/Standard Assets'
 end

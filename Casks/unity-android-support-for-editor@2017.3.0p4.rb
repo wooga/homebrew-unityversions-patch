@@ -31,5 +31,5 @@ cask 'unity-android-support-for-editor@2017.3.0p4' do
   end
 
   uninstall quit:    'com.unity3d.UnityEditor5.x',
-            delete:  '/Applications/Unity-2017.3.0p4'
+            delete:  '/Applications/Unity-2017.3.0p4/PlaybackEngines/AndroidPlayer'
 end
